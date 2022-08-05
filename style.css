@@ -89,7 +89,7 @@ body {
 
 .frames img {
     width: 125px;
-    height: 125px;
+    height: 140px;
     border-radius: 50%;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
 }
@@ -116,4 +116,5 @@ body {
     background-color: rgb(248, 237, 233);
     width: 400px;
     height: 350px;
+
 }
